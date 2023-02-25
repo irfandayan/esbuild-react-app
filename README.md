@@ -1,2 +1,2 @@
 ESbuild
-Esbuild for react
+Esbuild for react app
