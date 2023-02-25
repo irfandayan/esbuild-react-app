@@ -1,2 +1,2 @@
 ESbuild
-Esbuild bundler for create react app
+Esbuild for react
